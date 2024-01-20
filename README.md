@@ -1,0 +1,2 @@
+# diplomado
+Paracticas del diplomado
